@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mars Photos</string>
+    <string name="loading">Consultando fotos de Marte…</string>
+    <string name="load_error">No se pudieron obtener las fotos de Marte.</string>
+    <string name="retry">Reintentar</string>
+    <plurals name="photo_count">
+        <item quantity="one">Se encontró %d foto de Marte.</item>
+        <item quantity="other">Se encontraron %d fotos de Marte.</item>
+    </plurals>
+</resources>
